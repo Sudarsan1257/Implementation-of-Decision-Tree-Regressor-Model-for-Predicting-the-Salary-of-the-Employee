@@ -102,10 +102,10 @@ plt.show()
 
 ## Output:
 ### Data.Head():
-<img width="1239" height="520" alt="Screenshot 2026-02-16 084528" src="https://github.com/user-attachments/assets/843b0bde-c8f8-4419-bd26-0e3b02641270" />
+<img width="622" height="315" alt="Screenshot 2026-02-16 084310" src="https://github.com/user-attachments/assets/90363cc8-efad-48da-b72c-05d340f9bb60" />
 
 ### Data.info():
-<img width="290" height="57" alt="Screenshot 2026-02-16 084406" src="https://github.com/user-attachments/assets/f27c379c-2de4-4b91-be4a-446aa24faecd" />
+<img width="537" height="269" alt="Screenshot 2026-02-16 084331" src="https://github.com/user-attachments/assets/59a92d1d-3ec7-4bd3-b1b9-12a3c3897e39" />
 
 ### isnull() and sum():
 <img width="355" height="118" alt="Screenshot 2026-02-16 084353" src="https://github.com/user-attachments/assets/0ee47d72-ffc0-4ec0-a76c-111f231831c8" />
@@ -120,10 +120,12 @@ plt.show()
 <img width="270" height="44" alt="image" src="https://github.com/user-attachments/assets/ff936337-09a6-4645-bfef-7c3687158a56" />
 
 ### Data Prediction:
-<img width="537" height="269" alt="Screenshot 2026-02-16 084331" src="https://github.com/user-attachments/assets/59a92d1d-3ec7-4bd3-b1b9-12a3c3897e39" />
+<img width="290" height="57" alt="Screenshot 2026-02-16 084406" src="https://github.com/user-attachments/assets/f27c379c-2de4-4b91-be4a-446aa24faecd" />
+
 
 ### Decision Tree:
-<img width="622" height="315" alt="Screenshot 2026-02-16 084310" src="https://github.com/user-attachments/assets/90363cc8-efad-48da-b72c-05d340f9bb60" />
+<img width="1239" height="520" alt="Screenshot 2026-02-16 084528" src="https://github.com/user-attachments/assets/843b0bde-c8f8-4419-bd26-0e3b02641270" />
+
 
 
 ## Result:
